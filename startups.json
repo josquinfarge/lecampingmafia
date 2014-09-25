@@ -1,4 +1,16 @@
 [
+     {
+    "name": "Soundsgoood",
+    "website": "www.soundsgoood.com",
+    "status": "active",
+    "season": "6",
+    "pitch": "The goood way to discover music",
+    "connect": {
+      "mail": "contact@soundsgoood.com",
+      "facebook": "https://www.facebook.com/sndsgoood",
+      "twitter": "https://twitter.com/sndsgoood"
+    }
+  },
     {
         "name": "Jam",
         "website": "www.justjam.at",
